@@ -1,7 +1,8 @@
-# :wave: Hey, I'm Matt!
+# :wave: Hey, I'm Mark Dolan!
 
-I'm a software engineer focusing on the modern web & full-stack JavaScript || RoR. I love open source - follow or :heart: [sponsor me or donate](https://github.com/mattspaul120)!\
-Sr Engineer on Upwork.com. Computer Science degree from Rowan University.
+I'm a software engineer focusing on the modern web & full-stack JS || RoR. I love open source - follow or :heart:
+
+Sr Engineer on Upwork.com. Computer Science degree from Dublin City University.
 
 Have a project? I'd love to work with you! Freelance or contract, remote & off-hours, < 30-40 hours/week.
 
